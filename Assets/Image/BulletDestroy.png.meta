@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: c48492447ec7c3f4280d9b7b3709bb3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1151899596209657318
+    second: BulletDestroy_0
+  - first:
+      213: 7489486052915796067
+    second: BulletDestroy_1
+  - first:
+      213: 8946411537694432898
+    second: BulletDestroy_2
+  - first:
+      213: -6298772033041738663
+    second: BulletDestroy_3
+  - first:
+      213: -3056594550985613537
+    second: BulletDestroy_4
+  - first:
+      213: -4667069366653189128
+    second: BulletDestroy_5
+  - first:
+      213: 6824460495971472662
+    second: BulletDestroy_6
+  - first:
+      213: -8869707633734063139
+    second: BulletDestroy_7
+  - first:
+      213: 784073712848969696
+    second: BulletDestroy_8
+  - first:
+      213: 5143744160743269130
+    second: BulletDestroy_9
+  - first:
+      213: 5606211550093275113
+    second: BulletDestroy_10
+  - first:
+      213: 8855757001274567615
+    second: BulletDestroy_11
+  - first:
+      213: -49517045321562061
+    second: BulletDestroy_12
+  - first:
+      213: 5360134493960242360
+    second: BulletDestroy_13
+  - first:
+      213: -1910412042312997890
+    second: BulletDestroy_14
+  - first:
+      213: -4548532896576663078
+    second: BulletDestroy_15
+  - first:
+      213: 3638866558413687025
+    second: BulletDestroy_16
+  - first:
+      213: 5368813400829827183
+    second: BulletDestroy_17
+  - first:
+      213: -3803058461270130285
+    second: BulletDestroy_18
+  - first:
+      213: 3642081237025318463
+    second: BulletDestroy_19
+  - first:
+      213: 428945782373182650
+    second: BulletDestroy_20
+  - first:
+      213: 2880211563426409787
+    second: BulletDestroy_21
+  - first:
+      213: -6685582253727840056
+    second: BulletDestroy_22
+  - first:
+      213: -3533059002182835222
+    second: BulletDestroy_23
+  - first:
+      213: -501764375622671520
+    second: BulletDestroy_24
+  - first:
+      213: -2079321680169860702
+    second: BulletDestroy_25
+  - first:
+      213: 7665430938173452203
+    second: BulletDestroy_26
+  - first:
+      213: 8813328120896877537
+    second: BulletDestroy_27
+  - first:
+      213: 6924007781192107108
+    second: BulletDestroy_28
+  - first:
+      213: 5502962451848858053
+    second: BulletDestroy_29
+  - first:
+      213: 5565795468951609729
+    second: BulletDestroy_30
+  - first:
+      213: 6226806052833604860
+    second: BulletDestroy_31
+  - first:
+      213: -3956861529150755428
+    second: BulletDestroy_32
+  - first:
+      213: -5952747235362733202
+    second: BulletDestroy_33
+  - first:
+      213: 1804767516098716922
+    second: BulletDestroy_34
+  - first:
+      213: -243872928265378508
+    second: BulletDestroy_35
+  - first:
+      213: -1851757437445849693
+    second: BulletDestroy_36
+  - first:
+      213: -7449561475858596121
+    second: BulletDestroy_37
+  - first:
+      213: -2381583142433333619
+    second: BulletDestroy_38
+  - first:
+      213: 7366565589153173145
+    second: BulletDestroy_39
+  - first:
+      213: 3624565935178963823
+    second: BulletDestroy_40
+  - first:
+      213: 5479268356656056077
+    second: BulletDestroy_41
+  - first:
+      213: 6475931076469702160
+    second: BulletDestroy_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BulletDestroy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 1280
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e51ef8649e5cff00800000000000000
+      internalID: 1151899596209657318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletDestroy_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 1280
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368d94652efffe760800000000000000
+      internalID: 7489486052915796067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletDestroy_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 1280
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e9bb6b4e9082c70800000000000000
+      internalID: 8946411537694432898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletDestroy_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 1280
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d16155344698a0800000000000000
+      internalID: -6298772033041738663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletDestroy_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 1280
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9b1e437bc495d0800000000000000
+      internalID: -3056594550985613537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletDestroy_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1280
+        width: 1280
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f38782632d3b3fb0800000000000000
+      internalID: -4667069366653189128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletDestroy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1280
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d01ed9aa55be50800000000000000
+      internalID: 6824460495971472662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletDestroy_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 1280
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe5bd96e778e480800000000000000
+      internalID: -8869707633734063139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
